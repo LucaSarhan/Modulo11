@@ -847,16 +847,6 @@ Cp Ep NLm NCE Ad  NLi NEi NLa Ea  Eu NLb NLa
       <pos x="280" y="2040"/>
     </visualElement>
     <visualElement>
-      <elementName>ALU.dig</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="2"/>
-        </entry>
-      </elementAttributes>
-      <pos x="-180" y="2060"/>
-    </visualElement>
-    <visualElement>
       <elementName>Register-out.dig</elementName>
       <elementAttributes>
         <entry>
@@ -885,6 +875,11 @@ Cp Ep NLm NCE Ad  NLi NEi NLa Ea  Eu NLb NLa
         </entry>
       </elementAttributes>
       <pos x="60" y="2600"/>
+    </visualElement>
+    <visualElement>
+      <elementName>ALUCPU.dig</elementName>
+      <elementAttributes/>
+      <pos x="-240" y="1660"/>
     </visualElement>
   </visualElements>
   <wires>
