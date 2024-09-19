@@ -250,6 +250,10 @@
           <string>rotation</string>
           <rotation rotation="2"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>OVF</string>
+        </entry>
       </elementAttributes>
       <pos x="500" y="540"/>
     </visualElement>
