@@ -3,4 +3,4 @@ Este backend foi criado para receber imagens enviadas por um dispositivo IoT (ES
 
 
 # Compravante do funcionamento
-[Comprovante](images/WhatsApp Image 2024-09-27 at 13.26.55.jpeg)
+![Comprovante](images/WhatsApp Image 2024-09-27 at 13.26.55.jpeg)
