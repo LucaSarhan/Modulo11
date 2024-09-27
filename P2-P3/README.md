@@ -8,5 +8,13 @@ uvicorn
 opencv-python
 ```
 
+# Execução do projeto
+
+Comando para executar o servidor
+```
+uvicorn app.main:app --reload
+```
+
+
 # Compravante do funcionamento
 ![Comprovante](Comprovante.jpeg)
